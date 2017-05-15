@@ -1,0 +1,747 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"allprice"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"total",
+				"total_price"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"to",
+				"total_price"
+			],
+			[
+				"tot",
+				"total_price"
+			],
+			[
+				"Wh",
+				"WHERE"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"products"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"RE",
+				"result"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"F",
+				"FROM"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"buy",
+				"buy_product"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ad",
+				"add_item"
+			],
+			[
+				"add",
+				"add_to_cart"
+			],
+			[
+				"id",
+				"id_product"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"name",
+				"nameuser"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"pO",
+				"POST"
+			],
+			[
+				"G",
+				"_GET"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"комен",
+				"коментарий"
+			],
+			[
+				"comm",
+				"comment_bd"
+			],
+			[
+				"preg_rep",
+				"preg_replace"
+			],
+			[
+				"preg_re",
+				"preg_replace"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"se",
+				"section	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/work/new work/OpenServer/domains/magaz.com/page/tovar.php",
+			"settings":
+			{
+				"buffer_size": 3695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work/new work/OpenServer/domains/magaz.com/work/function.php",
+			"settings":
+			{
+				"buffer_size": 7796,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work/new work/OpenServer/domains/magaz.com/page/cart.php",
+			"settings":
+			{
+				"buffer_size": 1587,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work/new work/OpenServer/domains/magaz.com/page/checkout/index.php",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "127.0.0.1 local",
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"file_size": 15,
+			"file_write_time": 131096094629179308,
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/work/new work/OpenServer/domains/magaz.com",
+		"/D/work/new work/OpenServer/domains/magaz.com/admin",
+		"/D/work/new work/OpenServer/domains/magaz.com/page",
+		"/D/work/new work/OpenServer/domains/magaz.com/work",
+		"/D/work/new work/OpenServer/domains/magaz.com/work/obrabochik"
+	],
+	"file_history":
+	[
+		"/C/Windows/System32/drivers/etc/1",
+		"/D/practice6_project/index.php",
+		"/C/Users/ы2ц/Desktop/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/page/kontakti.php",
+		"/W/domains/newmagaz.com/components/Cart.php",
+		"/W/domains/newmagaz.com/components/Pagination.php",
+		"/W/domains/newmagaz.com/controllers/CartController.php",
+		"/W/domains/newmagaz.com/controllers/CatalogController.php",
+		"/W/domains/newmagaz.com/views/cart/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/page/tovar.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/work/function.php",
+		"/D/work/new work/OpenServer/domains/newmagaz.com/views/cart/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/page/cart.php",
+		"/D/shop.php-start.com-master/shop.php-start.com-master/index.php",
+		"/D/work/new work/OpenServer/domains/newmagaz.com/config/db_params.php",
+		"/D/work/new work/OpenServer/domains/shop.php-start.com/config/routes.php",
+		"/D/work/new work/OpenServer/domains/shop.php-start.com/models/Category.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/admin/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/style.css",
+		"/D/work/new work/OpenServer/domains/newmagaz.com/config/routes.php",
+		"/D/work/new work/OpenServer/domains/newmagaz.com/models/Category.php",
+		"/D/work/new work/OpenServer/domains/newmagaz.com/components/Db.php",
+		"/D/work/new work/OpenServer/domains/newmagaz.com/components/Autoload.php",
+		"/D/work/new work/OpenServer/domains/newmagaz.com/components/Cart.php",
+		"/D/work/new work/OpenServer/domains/mysait.local/info.php",
+		"/D/work/new work/OpenServer/domains/mysait.local/table.php",
+		"/D/work/new work/OpenServer/domains/mysait.local/style.css",
+		"/D/work/new work/OpenServer/domains/mysait.local/index.php",
+		"/D/work/new work/OpenServer/domains/mysait.local/calc.php",
+		"/D/work/new work/OpenServer/domains/mysait.local/about.php",
+		"/D/work/new work/OpenServer/domains/mysait.local/contact.php",
+		"/D/Doc/sources/demo/phpDoc/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/work/obrabochik/add.php",
+		"/D/work/kika/wordpress-4.5.2-ru_RU/wordpress/wp-config.php",
+		"/W/domains/magaz.com/page/cart.php",
+		"/D/work/kika/wordpress-4.5.2-ru_RU/wordpress/wp-config-sample.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/page/onetovar.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/work/setting.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/дополнительные материалы/регистрация.html",
+		"/D/work/PROJECT/git/PHP-CMS/magaz.com/work/function.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/18/clas/index.php",
+		"/D/work/new work/OpenServer/domains/myjavascript.com/index.html",
+		"/D/work/new work/OpenServer/domains/myjavascript.com/lesson2.html",
+		"/D/work/PROJECT/git/learn_javascript/lesson2.html",
+		"/D/work/PROJECT/git/learn_javascript/lesson1.html",
+		"/D/work/new work/OpenServer/domains/magaz.com/work/obrabochik/edit.php",
+		"/D/work/new work/OpenServer/domains/magazold.com/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/dop_form/img/index.php",
+		"/D/Zaochniky/PHP/update_edit.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/15/dz/komment.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/15/dz/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/18/dz/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/17/dz/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/dop_form/update/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/16/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/17/index.php",
+		"/D/work/new work/OpenServer/domains/magaz.com - 14.03/index.php",
+		"/C/Users/ы2ц/Desktop/test.html",
+		"/C/Users/ы2ц/Desktop/menu/menu/defolt/style.css",
+		"/D/work/new work/OpenServer/domains/magaz.com/comm/komment.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/comm/add.php",
+		"/C/Users/ы2ц/AppData/Local/Temp/news.css",
+		"/D/work/kalde/kass/front-page.php",
+		"/D/work/kalde/kass/style.css",
+		"/D/work/sophoto/css/2016/апрель/04/team.php",
+		"/D/work/sophoto/photo/2016/апрель/07/style.css",
+		"/D/work/sophoto/css/2016/апрель/05/style.css",
+		"/D/work/sophoto/css/2016/апрель/05/header.php",
+		"/D/work/sophoto/css/2016/апрель/07/team.php",
+		"/D/work/kalde/kass/index.html",
+		"/D/work/kalde/kass/05/index.html",
+		"/D/work/kalde/kass/05/style.css",
+		"/D/work/kalde/kass/05/send.php",
+		"/D/work/sophoto/css/2016/апрель/04/studio.php",
+		"/D/work/new work/OpenServer/domains/svaz.com/index.php",
+		"/D/work/kalde/kass/send.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/page/home.php",
+		"/D/work/new work/OpenServer/domains/dvizok.com/index.php",
+		"/D/work/new work/OpenServer/domains/dvizok.com/setting.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/upload.php",
+		"/D/work/new work/OpenServer/domains/svaz.com/config.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/add.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/komment.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/function.php",
+		"/D/work/new work/OpenServer/domains/dvizok.com/page/register.php",
+		"/C/Users/ы2ц/AppData/Local/Temp/Temp1_Zaochniky.zip/PHP/index.php",
+		"/C/Users/ы2ц/AppData/Local/Temp/Temp1_Zaochniky.zip/PHP/add.php",
+		"/E/index.php",
+		"/D/work/sophoto/speed/optimized_contents/css/responsive.css",
+		"/D/kontakty.tsv",
+		"/D/work/kalde/kalde.org/settings.php",
+		"/D/work/kalde/kalde.org/11/settings.php",
+		"/D/work/sophoto/css/2016/март/30/studio.php",
+		"/D/work/sophoto/css/2016/март/28/team.php",
+		"/D/work/new work/OpenServer/domains/aaa.com/index.php",
+		"/D/Zaochniky/JS/JS/scriptCR.js",
+		"/D/Zaochniky/JS/useJS.html",
+		"/D/Zaochniky/PHP/add.php",
+		"/D/work/sokinder/css/2016/март/25/style.css",
+		"/D/work/sophoto/css/2016/март/25/team.php",
+		"/D/work/sophoto/css/2016/март/25/our_team.php",
+		"/D/work/new work/OpenServer/domains/sophoto.com/sites/default/settings.php",
+		"/D/work/new work/OpenServer/domains/aaa.com/page/register.php",
+		"/D/work/new work/OpenServer/domains/magaz.com/.htaccess",
+		"/D/work/new work/OpenServer/domains/magaz.com/регистрация.html",
+		"/D/work/new work/OpenServer/domains/aaa.com/setting.php",
+		"/D/work/new work/OpenServer/domains/dvizok.com/page/regist.php",
+		"/D/it step/php/111/Урок 2/public_html/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/magaz/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/magaz/comm/komment.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/magaz/style.css",
+		"/D/work/new work/OpenServer/domains/myphp.com/magaz/komment.php",
+		"/C/Users/ы2ц/Desktop/отчёты/2014/май/06,05,2014.txt",
+		"/D/work/new work/OpenServer/domains/myphp.com/29/home/test.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/29/home/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/30/home/index.php",
+		"/C/Users/ы2ц/Desktop/ТАск лист.txt",
+		"/D/work/new work/OpenServer/domains/test2.com.ua/index.html",
+		"/D/work/new work/OpenServer/domains/test2.com.ua/Видео монтаж свадеб.htm",
+		"/D/work/new work/OpenServer/domains/myphp.com/19/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/20/class/index.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/20/class/index2.php",
+		"/D/work/new work/OpenServer/domains/myphp.com/magaz/comm/index.php",
+		"/D/work/sophoto/css/2016/январь/servis.php",
+		"/D/work/sophoto/css/2016/январь/front-page.php",
+		"/D/work/sophoto/css/2016/январь/page.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"];\n",
+			"()",
+			"$total",
+			"echo \"<HTML><HEAD>\n			<META HTTP-EQUIV='Refresh' CONTENT='0; URL=tovar.php'>\n		</HEAD></HTML>\";",
+			"update_cart",
+			"\">'\n",
+			"SELECT",
+			"a hre",
+			"isset",
+			"b",
+			"c",
+			"a",
+			");\n",
+			"$b",
+			"$a",
+			"$con",
+			"$_GET[\"a\"]",
+			"s",
+			";\n",
+			"\";\n",
+			"#menu1 div a {",
+			"boss",
+			"15",
+			"#sophappydiv",
+			"top: 0em;",
+			"#blocks",
+			"/img/flags/Flag_of_Kazakhstan.svg",
+			"flags",
+			"качест",
+			"form",
+			"292px",
+			" \"",
+			"#Wrapp, #Wrapp2",
+			"tel",
+			"#tel",
+			"INSERT INTO",
+			"<img",
+			"menu-item-1587",
+			"promo",
+			"$end",
+			"$resulti",
+			"resulti",
+			"$i",
+			"img",
+			"images_bd",
+			"Структура\nimages_bd",
+			"swat",
+			"font",
+			"природа",
+			"coment_bd",
+			"'>\";\n",
+			"t",
+			"// исходная строка\n		$string = \"Строка,разделенная,запятыми\";\n		// разбиваем строку по разделителю - запятой\n		$array_words_1 = explode(',', $string);\n		// вывод результата\n		var_dump($array_words_1);\n		 \n		// исходная строка\n		$string = \"Строка1разделенная2числами3еще текст\";\n		// разбиваем строку по регулярному выражению\n		// '/\\d/' – является регулярным выражением\n		$array_words_2 = preg_split('/\\d/', $string);\n		// вывод результата\n		var_dump($array_words_2);",
+			"replace",
+			"%;",
+			"sandisck",
+			";\n",
+			"text",
+			"hover",
+			"sertificatseclect",
+			"#intabdiv2 h2",
+			"wrap",
+			"word_wrap",
+			"logo",
+			"#intabdiv2",
+			"padding-right: 29px;\npadding-left: 56px;",
+			"line",
+			"500",
+			"';\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/work/new work/OpenServer/domains/magaz.com/page/tovar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/work/new work/OpenServer/domains/magaz.com/work/function.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6065,
+								6065
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/work/new work/OpenServer/domains/magaz.com/page/cart.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1165,
+								1165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 621.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/work/new work/OpenServer/domains/magaz.com/page/checkout/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

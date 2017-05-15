@@ -1,0 +1,9 @@
+RewriteEngine On
+Options +FollowSymlinks
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^tovar/([a-z_]+)/?$      tovar.php?a=0&add_to_cart&id=$1
+
+RewriteRule ^.*$ root.php [NC,L]

@@ -1,0 +1,62 @@
+soprogrammist@gmail.com /  / test / test@mail.ru - заявка успешно обработана
+soprogrammist@gmail.com /  / test / test@mail.ru - заявка успешно обработана
+soprogrammist@gmail.com /  / test / test@mail.ru - заявка успешно обработана
+soprogrammist@gmail.com /  / test / test@mail.ru - заявка успешно обработана
+soprogrammist@gmail.com /  / bbb / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / aa@aa.com - заявка успешно обработана
+soprogrammist@gmail.com /  / ccc / ccc@cc.cc - заявка успешно обработана
+soprogrammist@gmail.com /  / test / test@mail.ru - заявка успешно обработана
+soprogrammist@gmail.com /  / test / ccc@cc.cc - заявка успешно обработана
+soprogrammist@gmail.com /  / daad / test@mail.ru - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / bbb / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / aa@aa.com сервер не разрешил начать авторизацию
+soprogrammist@gmail.com /  / aaa / aa@aa.com ошибка приветсвия EHLO
+soprogrammist@gmail.com /  / aaa / aa@aa.com сервер не принял DATA
+soprogrammist@gmail.com /  / aaa / aa@aa.com - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / aa@aa.com - заявка успешно обработана
+soprogrammist@gmail.com /  / bbb / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / bbb / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / ccc / ccc@cc.cc - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / aa@aa.com - заявка успешно обработана
+soprogrammist@gmail.com /  / bbb / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / bbb / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / 1111 / 111@mail.r2 - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb - заявка успешно обработана
+soprogrammist@gmail.com /  / aaa / test@mail.ru соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / test@mail.ru соединение с сервером не прошло
+soprogrammist@gmail.com /  / Святослав / soprogrammist@gmail.com соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com /  / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / 1111 / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / 222 / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com / 333 / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com / 333 / aaa / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com / 111 / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / 111 / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / a / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / +380(63)719-26-01 / test / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com / 11111 / aaa / aa@aa.com соединение с сервером не прошло
+soprogrammist@gmail.com / 2222 / bbb / bbb@bb.bb соединение с сервером не прошло
+soprogrammist@gmail.com / 233333 / vccccc / ccc@cc.cc соединение с сервером не прошло
+soprogrammist@gmail.com / +233243413 / test / test@mail.ru соединение с сервером не прошло
+soprogrammist@gmail.com / 123123 / admins / asda@aaa соединение с сервером не прошло
+soprogrammist@gmail.com / 654641+ / test / test@MAIL.ru - заявка успешно обработана
